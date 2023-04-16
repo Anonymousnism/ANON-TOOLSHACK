@@ -15,15 +15,10 @@
 It only demonstrates "how phishing works". <b>You shall not misuse the information to gain unauthorized access to someones social media</b>. However you may try out this at your own risk.</i>
 <hr>
 ## Features
-
-- Latest and updated login pages.
-- Beginners friendly
-- Multiple tunneling options
-  - Localhost
-  - Cloudflared
-  - LocalXpose
-- Mask URL support 
-- Docker support
+- IP TRACER
+- IP CHECKER
+- DDOS
+- DATABASE CRACKING
 
 ##
 
@@ -31,16 +26,16 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 
 - Just, Clone this repository -
   ```
-  git clone --depth=1 https://github.com/htr-tech/zphisher.git
+  git clone --depth=1 https://github.com/Anonymousnism/anonhacktool.git
   ```
 
-- Now go to cloned directory and run `zphisher.sh` -
+- Now go to cloned directory and run `anonhacktool.sh` -
   ```
-  $ cd zphisher
-  $ bash zphisher.sh
+  $ cd anonhacktool
+  $ bash anonhacktool.sh
   ```
 
-- On first launch, It'll install the dependencies and that's it. ***Zphisher*** is installed.
+- On first launch, It'll install the dependencies and that's it. ***AnonHackTool*** is installed.
 
 ##
 
@@ -48,8 +43,8 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 You can easily install zphisher in Termux by using tur-repo
 ```
 $ pkg install tur-repo
-$ pkg install zphisher
-$ zphisher
+$ pkg install anonhacktool
+$ anonhacktool
 ```
 ### A Note : 
-***Termux discourages hacking*** .. So never discuss anything related to *zphisher* in any of the termux discussion groups. For more check : [wiki](https://wiki.termux.com/wiki/Hacking)
+***Termux discourages hacking*** .. So never discuss anything related to *AnonHackTool* in any of the termux discussion groups. For more check : [wiki](https://wiki.termux.com/wiki/Hacking)
