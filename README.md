@@ -26,12 +26,12 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 
 - Just, Clone this repository -
   ```
-  git clone --depth=1 https://github.com/Anonymousnism/anonhacktool.git
+  git clone --depth=1 https://github.com/Anonymousnism/ANON-TOOLSHACK.git
   ```
 
 - Now go to cloned directory and run `anonhacktool.sh` -
   ```
-  $ cd anonhacktool
+  $ cd ANON-TOOLSHACK
   $ bash anonhacktool.sh
   ```
 
